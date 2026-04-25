@@ -30,6 +30,5 @@ Fact is displayed on the UI dynamically
 
 <img width="2047" height="1151" alt="f414b49b-7787-4d55-be63-f8669370ccb9" src="https://github.com/user-attachments/assets/b808b068-4bb1-4c69-9a59-d546ecc241ab" />
 
-👨‍💻 Author
 
-Sachin Gupta
+👨‍💻 Author | Sachin Gupta
