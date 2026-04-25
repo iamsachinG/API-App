@@ -14,8 +14,11 @@ CSS
 JavaScript (Fetch API)
 
 📂 Project Structure
+
 API-App/
+
 │── index.html   # Main UI
+
 │── script.js    # Fetch API + logic
 
 ⚙️ How It Works
